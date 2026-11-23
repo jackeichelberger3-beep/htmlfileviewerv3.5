@@ -76,7 +76,7 @@
 window.HS_KEYS_ENABLED = true;
 
 window.HS_KEYS = [
-  { key: 'ng_studio_dVA9Y3yQy6gRyhHualr1wTeGreKOjoQJ',        tier: 'admin', label: 'Full admin access',              enabled: true, blocked: true, blockedReason: 'Testing' },
+  { key: 'ng_studio_dVA9Y3yQy6gRyhHualr1wTeGreKOjoQJ',        tier: 'admin', label: 'Full admin access',              enabled: true, blocked: false, blockedReason: '' },
   { key: 'ng_studio_KoKVL6ZMyCfsGRvFvT0S3ngAirGdtc4t',        tier: 'admin', label: 'Full admin access',              enabled: true, blocked: true, blockedReason: 'Being short dick' },
   { key: 'ng_studio_QBk8yaFeLomZfElX2XLc6oGjMBs54N61',        tier: 'admin', label: 'Full admin access',              enabled: true, blocked: false, blockedReason: '' },
   { key: 'ng_studio_eAodIkSV2Qb4xMLJgP61MMEIxywGJLSu',        tier: 'admin', label: 'Full admin access',              enabled: true, blocked: false, blockedReason: '' },
