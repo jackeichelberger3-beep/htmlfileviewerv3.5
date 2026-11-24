@@ -107,9 +107,25 @@ window.HS_KEYS = [
   { key: 'ng_studio_pazX3ja0bNHC9tG9T0zko8Cix0FgmJszJSddq1Xx',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
   { key: 'ng_studio_NNVhqopnYFYj0tIyZVSx03DEmYJVIgrT5zV6fnh9',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
   { key: 'ng_studio_VjIA5AfRbC2SETytfoFJNf72C70xBWga6HKfRTVr',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_sx1e5A3QtKNywKbQMFimCgXCKOS2T1Xhlbxpu1QI',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_dKrkfURq8PWsFMnuyxP5g9iuMSdUIrosZslsguiU',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_8RzoBMytX8NT56uFJwBLsHNn7N8nXE1vVe1VhdV0',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' }, 
+  { key: 'ng_studio_s0tctIvJP0HXoME9jl20Yq51HK7QIY7hCQUSK5E1',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_a3bbfujuymWpw8bymnzIVHFW1FRzr8BHFiKWIgRY',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_Zc4dKJw6ygClSZI2ZNivDUbJhG0Jp6ktkwVTByDl',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' }, 
+  { key: 'ng_studio_GIgZ8JC66S8S53FfrPwMo6uvt6La12uJWD9ieekJ',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_sPxzy7uzgGpWzd2bSckwFCSrIrGwxznXSrNhEzX3',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_GLCYT2okLLLoI3nwa9RioafgJEHnBcsyzrBAjOnL',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' }, 
+  { key: 'ng_studio_8IAKrYpxuzjL6erCwBAfFbNzkqDsuNBr2JjaucCL',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_adt6rAL8r8kSdypBHOFLXDHdowtsaBtGVWXqiwqJ',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_gGPuVNf5hu9J4gCkgaOo3hPg4Tehyvz0MQ30XQ22',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' }, 
+  { key: 'ng_studio_5rUe74cHcoznt0ncjBLW8Mm95hk7Tp8KFegoe56L',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_KDpW5m2kmUgbXq783LeHYZVWabYB1QxJ1zAL6nUH',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
+  { key: 'ng_studio_LhBaH3bYtXf8NaUL4g1hsrIttqG1MYSdEux2eFGZ',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' }, 
   { key: 'ng_studio_htmlstudio',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
   { key: 'open-sesame',  tier: 'guest', label: 'Read-only access',               enabled: true, blocked: false, blockedReason: '' },
   { key: 'ng-studio-studio-owner', username: 'iloveilyssa', tier: 'owner', label: 'Owner — exclusive controls', enabled: true, blocked: false, blockedReason: '' }
+  { key: 'ng_studio_dean', username: 'Dean', tier: 'admin', label: 'Full admin access', enabled: true, blocked: false, blockedReason: '' }
   // Blocked example — set blocked back to false to let this key in again:
   // ,{ key: 'old-key', tier: 'dev', label: 'Former developer', enabled: true, blocked: true, blockedReason: 'Access paused — project finished on 12 May.' }
 ];
