@@ -126,7 +126,6 @@ window.HS_KEYS = [
   { key: 'ng_studio_htmlstudio',   tier: 'dev',   label: 'Developer access',               enabled: true, blocked: false, blockedReason: '' },
   { key: 'open-sesame',  tier: 'guest', label: 'Read-only access',               enabled: true, blocked: false, blockedReason: '' },
   { key: 'ng-studio-studio-owner', username: 'iloveilyssa', tier: 'owner', label: 'Owner — exclusive controls', enabled: true, blocked: false, blockedReason: '' }
-  { key: 'ng_studio_dean', username: 'Dean', tier: 'admin', label: 'Full admin access', enabled: true, blocked: false, blockedReason: '' }
   // Blocked example — set blocked back to false to let this key in again:
   // ,{ key: 'old-key', tier: 'dev', label: 'Former developer', enabled: true, blocked: true, blockedReason: 'Access paused — project finished on 12 May.' }
 ];
